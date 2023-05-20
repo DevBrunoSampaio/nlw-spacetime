@@ -1,6 +1,7 @@
 <p align= "center">
 <img src = ".github/preview-2.png" alt="Demonstração do projeto" width="100%">
 </p>
+
 ## 🖥️ Projeto 
 Este é um projeto web responsivo de uma cápsula do tempo para exibir memórias em uma timeline.
 
